@@ -10,6 +10,7 @@ We know from the Kawasaki manual, that we can use HERE commands in the terminal 
 3. ```HERE a+b``` defines the distance from the robots base coordinates to the TCP (where we want our robot to grab the objects). This can be between two grippers, in center of a vacuum cup or whatever needed.
 4. By typing ```POINT t=-b``` we assign the tool transformations values from b
 5. ```TOOL t``` can be used to "mount" the new tool
+   
    **Use ```DO ALIGN``` to align the robot to the workplane**
 ## Manuel Numeric Entry
 
