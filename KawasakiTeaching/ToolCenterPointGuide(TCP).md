@@ -14,7 +14,7 @@ We know from the Kawasaki manual, that we can use HERE commands in the terminal 
 4. By typing ```POINT t=-b``` we use our temporary values to assign the tool transformations values from b
 5. ```TOOL t``` can be used to "mount" the new tool with the new "offset" from the flange
    
-   **Use ```DO ALIGN``` to align the robot to the workplane**
+   **HINT! Use ```DO ALIGN``` to align the robot to the workplane, to make sure the robot is in the optimal position**
 ## Manuel Numeric Entry
 
 ## Automatic Tool registration
