@@ -15,7 +15,7 @@ We know from the Kawasaki manual, that we can use HERE commands in the terminal 
 5. ```TOOL t``` can be used to "mount" the new tool with the new "offset" from the flange
    
    **HINT! Use ```DO ALIGN``` to align the robot to the workplane, to make sure the robot is in the optimal position**
-## Manuel Numeric Entry
+
 
 ## Automatic Tool registration
 It is possible to use Kawasaki automatic TCP teaching, by moving the robot to 4-6 different positions and save these coordinates through the built-in software on the teach pendant.
