@@ -18,3 +18,6 @@ We know from the Kawasaki manual, that we can use HERE commands in the terminal 
 ## Manuel Numeric Entry
 
 ## Automatic Tool registration
+It is possible to use Kawasaki automatic TCP teaching, by moving the robot to 4-6 different positions and save these coordinates through the built-in software on the teach pendant.
+See this video:
+[![Automatic TOOL registration](https://img.youtube.com/vi/YVcNhBwW0jE/0.jpg)](http://www.youtube.com/watch?v=YVcNhBwW0jE)
