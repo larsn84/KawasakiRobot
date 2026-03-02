@@ -1,14 +1,19 @@
 # Our findings in the process
 
-During the process of teaching the TCP, we achieved some findings and best practice routines.
+During the TCP (Tool Center Point) teaching process, we identified several key findings and established best practice routines.
 
 ## AS Language vs Automatic teaching
 
-The different methods has their pros and cons in different situations. It is now our understanding that the **AS language method** is the most fool proff of the ladder. 
+The different methods have their respective pros and cons depending on the situation. It is our assessment that the **AS language method** is the most foolproof approach for the ladder.
 
-The **Automatic method** primarily has it use cases when the tool is in alignment or a 90 degree angle from the flange. 
+The **Automatic method** primarily has its use cases when the tool is aligned or at a 90-degree angle to the flange. When working with more complex angles, it proved difficult to achieve satisfactory results.
 
-When more angles are at hand, it was difficult to get satisfactory results.
+We utilized the **Automatic method** for the vacuum suction cup with acceptable results, and we anticipate it would be equally suitable for welding heads or similar tools.
 
-We used the **Automatic method** for the vacuum suction cup with acceptable results. We recon it would be acceptable for welding heads or similar tools as well.
+## With or without a tool
 
+When using the HERE a command, you can proceed with or without the tool attached.
+
+You can demount the tool and align the center of the flange with the calibration point, or alternatively, identify a point in alignment with the flange at the tool's tip and measure the distance between these two points.
+
+Afterward, you must modify the Z-value of the HERE position (e.g., a) or otherwise compensate for this difference when teaching the a+b coordinates. This is done by moving the robot the physical distance in the Z-direction before executing the HERE a+b command.
