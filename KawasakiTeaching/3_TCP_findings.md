@@ -4,7 +4,7 @@ During the TCP (Tool Center Point) teaching process, we identified several key f
 
 ## AS Language vs Automatic teaching
 
-The different methods have their respective pros and cons depending on the situation. It is our assessment that the **AS language method** is the most foolproof approach for the ladder.
+The different methods have their respective pros and cons depending on the situation. It is our assessment that the **AS language method** is the most foolproof approach.
 
 The **Automatic method** primarily has its use cases when the tool is aligned or at a 90-degree angle to the flange. When working with more complex angles, it proved difficult to achieve satisfactory results.
 
