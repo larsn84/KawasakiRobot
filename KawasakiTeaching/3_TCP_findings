@@ -16,4 +16,6 @@ When using the HERE a command, you can proceed with or without the tool attached
 
 You can demount the tool and align the center of the flange with the calibration point, or alternatively, identify a point in alignment with the flange at the tool's tip and measure the distance between these two points.
 
+https://github.com/larsn84/KawasakiRobot/blob/ce0b5e452316a4a189db674b9817995f5b3a60e1/raw_images/HEREaDiffDist.jpg
+
 Afterward, you must modify the Z-value of the HERE position (e.g., a) or otherwise compensate for this difference when teaching the a+b coordinates. This is done by moving the robot the physical distance in the Z-direction before executing the HERE a+b command.
