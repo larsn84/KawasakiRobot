@@ -21,4 +21,4 @@ You can demount the tool and align the center of the flange with the calibration
 
 Afterward, you must modify the Z-value of the HERE position (e.g., a) or otherwise compensate for this difference when teaching the a+b coordinates. This is done by moving the robot the physical distance in the Z-direction before executing the HERE a+b command.
 
-<img src="https://github.com/larsn84/KawasakiRobot/blob/ce0b5e452316a4a189db674b9817995f5b3a60e1/raw_images/HEREaDiffDist.jpg" width="350"> 
+<img src="(https://github.com/larsn84/KawasakiRobot/blob/2ed7fda2f8afb6a39ecef89666b19b62fba85f6e/raw_images/HEREaDiffDist.jpg)" width="350"> 
